@@ -158,7 +158,7 @@ Last updated: 3rd August, 2022
 
 60. Waymo
 
-61. Argo AI
+61. Argo AI (**EDIT [2/13]: Argo AI was shut down recently :(** )
 
 62. Nuro
 
